@@ -4,8 +4,17 @@
   "description": "este es el parcial numero uno de la materia de diseño web adaptable",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "author": "William Lopez",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10william10lopez10/parcial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/10william10lopez10/parcial/issues"
+  },
+  "homepage": "https://github.com/10william10lopez10/parcial#readme"
 }
